@@ -78,7 +78,7 @@ persist.vendor.ssr.restart_level=ALL_ENABLE
 
 # Sensors
 persist.vendor.sensor.mischeck=true
-persist.vendor.debug.collision.dfx=true
+persist.vendor.debug.collision.dfx=false
 
 # Thermal
 persist.vendor.tracking.dfs=true
